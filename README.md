@@ -1,4 +1,4 @@
-# KURZSCHLIESSER-EV3DEV-CPP
+# KURZSCHLIESSER-EV3DEV-C++
 
 This file is copypasted from [https://github.com/pinjuf/kurzschliesser-ev3dev](https://github.com/pinjuf/kurzschliesser-ev3dev)
 
